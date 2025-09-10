@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://yapx.ru/album/aiGNS"  />
+<img align="right" height="150" src="https://i125.fastpic.org/thumb/2025/0910/45/1a8fea777ebc4d7c285f70f929353945.jpeg"  />
 
 ###
 
