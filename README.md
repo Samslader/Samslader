@@ -26,5 +26,5 @@
 ### activity
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" height="150" />
+  <img src="./streak.svg" alt="GitHub Streak" height="150" />
 </p>
