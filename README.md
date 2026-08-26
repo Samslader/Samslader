@@ -26,5 +26,5 @@
 ### activity
 
 <p align="center">
-  <img src="./streak.svg" alt="GitHub Streak" height="150" />
+  <img src="https://raw.githubusercontent.com/samslader/samslader/main/streak.svg" alt="GitHub Streak" height="150" />
 </p>
