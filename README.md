@@ -1,86 +1,91 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%D0%92%D0%BB%D0%B0%D0%B4%20(Kowis)&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lyamon4/Lyamon4/main/alimbanner.png" alt="alim 14 the coder" width="100%">
+</p>
 
-  ### ⚡️ Full-Stack Разработчик | Контент-мейкер | Геймер
+### about
+14-year-old software engineer, systems builder & ml enthusiast. co-founder and cto at [neuralese](https://www.youtube.com/watch?v=218K0ffants). building high-performance systems, visual ai tooling, embedded hardware, and developer infrastructure.
 
-  <p align="center">
-    <a href="https://github.com/Samslader">
-      <img src="https://img.shields.io/github/followers/Samslader?label=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F&style=social" />
-    </a>
-    <a href="https://discord.com/users/625304894001119243">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-    </a>
-  </p>
-</div>
+🌐 [alimbv.com](https://www.alimbv.com/) • ✉️ [wifiskeleton300@gmail.com](mailto:wifiskeleton300@gmail.com)
 
 ---
 
-### 🚀 Обо мне
+### core skills
 
-Привет! Я **Влад**, более известный как **Kowis**. Я разработчик из Германии, увлекаюсь созданием чистых, эффективных и современных приложений. Будь то создание адаптивных веб-интерфейсов или погружение в логику бэкенда, мне нравится процесс превращения идей в реальность.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp,rust,c,js,pytorch,fastapi,docker,git,sqlite,arduino&theme=dark" alt="core skills" />
+</p>
 
-- 🔭 Сейчас я работаю над улучшением своих навыков в **Full-Stack** разработке.
-- ⚡ Забавный факт: Я, пожалуй, самый «потный» человек, которого вы встретите (в хорошем смысле!).
-- 🎮 В свободное время меня можно найти на **Twitch** или за созданием контента для **YouTube**.
-
----
-
-### 🛠️ Мой стек технологий
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+- **languages**: Python • C++ • Rust • C • JavaScript • TypeScript • SQL
+- **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching • Autograd
+- **backend**: FastAPI • Node.js • Express • REST APIs • RPC
+- **databases**: SQLite • PostgreSQL • Redis
+- **tools & hardware**: Arduino / ESP32 • Git • Docker • Linux • Apple Silicon / Metal • Vite • Electron
 
 ---
 
-### 🏆 Мои трофеи GitHub
+### featured projects
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Samslader&theme=tokyonight&no-frame=true&column=7" />
-  </a>
-</div>
+#### [Neuralese](https://www.youtube.com/watch?v=218K0ffants)
+**Visual AI Platform** — *Co-Founder & CTO*
+
+A full-stack system for learning and building neural networks without code.
+- GPU optimization through cross-model scheduling
+- Used in real educational settings (raised $12k)
+- Built from visual node interface to deployment
+
+<a href="https://www.youtube.com/watch?v=218K0ffants">
+  <img src="https://img.shields.io/badge/▶_Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Demo">
+</a>
+
+<br><br>
+
+#### [Arduino Birthday Countdown](https://github.com/Lyamon4/arduino-birthday-countdown)
+**Embedded Midnight Countdown Box & Surprise Actuator** — *Open Source*
+
+Interactive Arduino Nano surprise device with I2C 16x2 LCD countdown, tone melody on passive buzzer, 8-state choreographed LED light show, and 5V relay trigger for external high-power celebration loads.
+
+<br>
+
+#### TurboMLX
+**High-Performance LLM & VLM Inference Engine**
+
+LLM inference server optimized for Apple Silicon with tiered SSD/RAM KV caching, continuous batching, and native Swift macOS menu bar manager.
+- Multi-model serving with automatic & manual runtime controls
+- Custom Metal/C++ kernels for accelerated prefill & generation
+- OpenAI & Anthropic drop-in API compatibility with tool calling
+
+<br>
+
+#### CoreTensor
+**C++20 & CUDA Autograd Tensor Library**
+
+Multi-dimensional tensor computation engine from scratch featuring automatic gradient tracking (Autograd), reverse-mode computational graphs, and custom CUDA GPU acceleration.
+
+<br>
+
+#### MemoryLLM
+**Universal Long-Term Memory Engine for AI Agents**
+
+High-performance persistent memory system for LLMs and AI coding agents with vector retrieval, hybrid FTS, autonomous consolidation, and MCP/hook integrations.
+
+<br>
+
+#### ESP32 AdBlock
+**Hardware Flash-Hash DNS Sinkhole**
+
+Pi-hole alternative running on a $2 ESP32 with 140,000+ domains packed into flash hashes, binary-search lookup in 10ms with only 50KB RAM.
+
+<br>
+
+#### Orbit Downloader
+**Modern Full-Featured Download Manager**
+
+Sleek, powerful download manager supporting multi-connection chunking, browser integration, torrent/magnet support, and cross-platform desktop UI.
 
 ---
 
-### 📊 Статистика GitHub
+### activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samslader&show_icons=true&theme=tokyonight&count_private=true" alt="Статистика Samslader" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samslader&layout=compact&theme=tokyonight" alt="Топ языков" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samslader&theme=tokyonight" alt="Активность" />
-</div>
-
----
-
-### 🌐 Связаться со мной
-
-<div align="center">
-  <a href="https://www.youtube.com/@kowis" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/kowisyt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.twitch.tv/kowis_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/625304894001119243" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kowis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyamon4&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
