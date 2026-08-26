@@ -11,11 +11,13 @@
 
 ### core skills
 
+✦ **ts/go & vue/nuxt dev!!**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,rust,c,js,pytorch,fastapi,docker,git,sqlite,arduino&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=ts,go,vue,nuxt,py,cpp,rust,c,pytorch,fastapi,docker,git,sqlite,arduino&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: Python • C++ • Rust • C • JavaScript • TypeScript • SQL
+- **languages**: TypeScript • Go • Python • C++ • Rust • C • JavaScript • SQL
 - **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching • Autograd
 - **backend**: FastAPI • Node.js • Express • REST APIs • RPC
 - **databases**: SQLite • PostgreSQL • Redis
